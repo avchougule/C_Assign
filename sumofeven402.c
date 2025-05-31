@@ -1,3 +1,4 @@
+//WAP to accept a number from user and find out sum of even digits from that given number.
 #include <stdio.h>
 void main()
 {
