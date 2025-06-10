@@ -1,0 +1,1 @@
+//WAP to find HCF and LCM of given number using recursion. 
