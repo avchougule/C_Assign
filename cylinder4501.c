@@ -1,6 +1,6 @@
 // d) Function with parameters with return value.
 #include<stdio.h>
-int volume(int,int);
+float volume(int,int);
 int main()
 {
 	float a,b,vol;
@@ -12,7 +12,7 @@ int main()
 	printf("The volumeof cylinder is %f\n",vol );
 
 }
-int volume(int r, int h)
+float volume(int r, int h)
 {
 	
 	return 3.14*r*r*h;

@@ -12,6 +12,6 @@ void main()
 	printf("This is even number\n");
 	}
 	else{
-		printf("This is not even number");
+		printf("This is odd number");
 	}
 }
